@@ -1,1 +1,1 @@
-console.log("Hola")
+console.log("Acabo de editar este fichero")
