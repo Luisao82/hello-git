@@ -1,7 +1,7 @@
 export class Button extends HTMLElement{
   constructor(){
     super()
-    this.innerHtml = /* HTML */ `
+    this.innerHTML = /* HTML */ `
     <h1>Esto es una prueba de componente</h1>`
   }
 
